@@ -4,7 +4,7 @@
 
 I'm a Data Scientist/Analyst who enjoys using data to investigate business problems, uncover patterns and communicate insights that support better decisions.
 
-Currently working as a Data Science Intern at AnalystLab Africa, I have practical experience with data analysis, exploratory data analysis, statistical methods and predictive modelling.
+I worked as a Data Science Intern at AnalystLab Africa, where i obtained practical experience with data analysis, exploratory data analysis, statistical methods and predictive modelling.
 
 ### Technical Skills
 
